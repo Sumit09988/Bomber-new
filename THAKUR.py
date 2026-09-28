@@ -93,7 +93,7 @@ SUPER_ADMINS = [7515864015]
 
 BOT_TOKEN = os.getenv(
     "BOT_TOKEN",
-    "8463766338:AAFgL1HDyvoRXDz3PCuDZTJD1NK8s7_FWcs"
+    "8463766338:AAE5wM6tQKPYniW4z0SQyENJicfuaPgKZGU"
 )
 
 # ═══════════════════════════════════════════════════════════════
